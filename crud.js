@@ -7,7 +7,7 @@ do{
     let idadeAluno = prompt("Informe a idade do aluno: ")
 
     alunos.push({
-        nome : nomeAluno, 
+        nome : nomeAluno,  
         idade : idadeAluno
     });
 
