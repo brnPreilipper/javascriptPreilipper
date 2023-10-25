@@ -1,7 +1,7 @@
 const prompt = require('prompt-sync')();
 // ---------PROGRAMAÇÂO FUNCIONAL
 
-//--MAP
+//--MAP - maperar o array
 
 /*let dados = [3, 4, 6, 6];
 
@@ -12,7 +12,7 @@ let dadosNovo = dados.map(function(element){
 console.log(dadosNovo);
 */
 
-//----filter
+//----filter - filtar dados 
 /*let dados = [6, 11, 300, 120, 55];
 
 let resultado = dados.filter(function(d){

@@ -1,22 +1,24 @@
 /**
- * função é um bloco de código com a tarefa de executar uma ou mais ações
+ * Função é um bloco de código com a tarefa de executar uma ou mais ações.
  */
 
-//função declaration - declaração
+//--------Função declaration - declaração
 /**
  * palavra function - obrigatorio
  * nomeFuncao - obrigatorio
  * () - obrigatorio
  * { corpo da funcao} - obrigatorio
- * (parametros) - parametros são opcionais
+ * (parametros) - parametros são opcionais, se declara somente se for utilizado.
  */
-/**function imprimeNome(nome, sobrenome = "Sem sobrenome"){
+
+/**
+ function imprimeNome(nome, sobrenome = "Sem sobrenome"){
     console.log(`${nome} ${sobrenome}`);
 }
-*/
-
 // chamar a funcao
-//imprimeNome('Bruno', "Preilipper")
+imprimeNome('Bruno', "Preilipper")
+*
+
 
 //-------------- FUNÇÔES DE EXPRESSÂO OU EXPRESSION
 /**
@@ -29,7 +31,8 @@
     console.log("Bruno");
 }
 
-minhaFuncao(); */
+minhaFuncao(); 
+*/
 
 //------------- ARROW FUNCTIO
 /**

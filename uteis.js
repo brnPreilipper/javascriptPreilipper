@@ -22,7 +22,7 @@ function frase(){
 
 //---------FUNÇÕES DE STRING: funções para tratamento de string
 
-//---LENGTH - pega o tamanho da string
+//---LENGTH - pega o tamanho da string:
 //let str = "Qual o tamnho da minha string";
 //console.log( str.length );
 
@@ -38,7 +38,7 @@ function frase(){
 //---TOUPPERCASE - converte tudo para maiusculo
 //console.log( str.toUpperCase());
 
-//----REPLACE() - troca uma ocorencia da string
+//----REPLACE() - troca uma ocorrência da string
 //console.log( str.replace("da minha STRING", "do meu texto"));
 
 //---------------Metodo para tratamento de numeros

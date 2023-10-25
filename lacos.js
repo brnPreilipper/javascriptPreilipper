@@ -23,6 +23,7 @@ for(let i = 0; i <dados.length; i++){
 }
 
 //-----------WHILE
+let i = 0;
 while(i < 100){
     console.log(`numero ${i}`)
     i++;
